@@ -1,0 +1,5 @@
+target/
+.idea/
+**/chave-firebase.json
+*.iml
+src/main/resources/chave-firebase.json
