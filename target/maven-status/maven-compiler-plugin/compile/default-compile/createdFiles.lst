@@ -1,8 +1,0 @@
-com\urnaeletronica\modelo\Cargo.class
-com\urnaeletronica\Main.class
-com\urnaeletronica\dados\FirebaseService.class
-com\urnaeletronica\modelo\Candidato.class
-com\urnaeletronica\negocio\Urna.class
-com\urnaeletronica\visao\TelaUrna$1.class
-com\urnaeletronica\modelo\Pessoa.class
-com\urnaeletronica\visao\TelaUrna.class
